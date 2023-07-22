@@ -1,0 +1,62 @@
+@import url(all.css);
+
+
+header{
+  min-height: 100vh;
+  background: url(../images/bg.jpg) no-repeat top left/cover;
+}
+.blocks{
+  min-height: 200px;
+}
+.block{
+  height: 200px;
+}
+.pen{
+  min-height: 250px;
+  background: url(../images/about-pic2.jpg) no-repeat center/cover;
+}
+.pen2{
+  min-height: 250px;
+  background: url(../images/about-pic1.jpg) no-repeat center/cover;
+}
+.pen3{
+  min-height: 250px;
+  background: url(../images/about-pic3.jpg) no-repeat center/cover;
+}
+.sec3{
+  min-height: 250px;
+  background: url(../images/process-bg.jpg) no-repeat center/cover;
+}
+.rec1{
+  min-height: 250px;
+  background: url(../images/p-bg1.jpg) no-repeat top left/cover;
+  
+}
+.rec2{
+  min-height: 250px;
+  background: url(../images/p-bg2.jpg) no-repeat top left/cover;
+}
+.rec3{
+  min-height: 250px;
+  background: url(../images/p-bg3.jpg) no-repeat top left/cover;
+}
+.rec4{
+  min-height: 250px;
+  background: url(../images/p-bg4.jpg) no-repeat top left/cover;
+}
+.blog1{
+  background:  lightgray;
+}
+.blog2{
+  min-height: 250px;
+  background: url(../images/b4.jpg) no-repeat center/cover;
+}
+.blog5{
+  min-height: 250px;
+  background: url(../images/b3.jpg);
+}
+.sora{
+  width: 83%;
+  min-height: 400px;
+}
+
